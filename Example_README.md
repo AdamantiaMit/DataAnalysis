@@ -1,6 +1,6 @@
 # ReadMe
 ## example
-colour in *italics*
+in *italics*
 
 **bold**
 
