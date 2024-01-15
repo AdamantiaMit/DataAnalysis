@@ -1,5 +1,5 @@
-# ReadMe
-## example
+# Example of ReadMe
+## Version Control on GitHub
 in *italics*
 
 **bold**
